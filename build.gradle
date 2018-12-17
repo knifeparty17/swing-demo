@@ -41,5 +41,5 @@ apply plugin: 'java'
 apply plugin: 'edu.sc.seis.launch4j'
 
 launch4j {
-  mainClassName = 'com.example.myapp.Start'
+  mainClassName = 'SwingDemo'
 }
